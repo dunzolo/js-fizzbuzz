@@ -12,3 +12,10 @@ Scrivi un programma che stampi in console i numeri da 1 a 100, ma che per i mult
             allora scrivo “Buzz”
             ALTRIMENTI
             scrivo il numero
+3 - Creo il tag con la classe container
+4 - Recupero l'elemento tramite querySelector
+5 - Aggiungo, usando il ciclo for, i div come stringhe
+6 - Utilizzo queste stringhe, trasformandole in tag HTML, tramite innerHTML
+
+BONUS
+6 - Assegno classi aggiuntive ai div per stilizzare i quadrati a mio piacimento
